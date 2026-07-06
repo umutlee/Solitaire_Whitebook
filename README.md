@@ -1,17 +1,7 @@
 # Solitaire Whitebook
 
-The official design repository for Solitaire Universe.
+The official knowledge base of Solitaire Universe.
 
-This repository contains the complete creative direction of the project.
+Every design decision, narrative concept, visual language, and production guideline originates here.
 
-It defines the Universe,
-its philosophy,
-its visual language,
-its production pipeline,
-and the principles behind every design decision.
-
-This is the single source of truth for Solitaire Universe.
-
-If a design decision is not documented here,
-
-it is not part of Solitaire Universe.
+If it is not documented in the Whitebook, it is not considered part of the canonical Solitaire Universe.
