@@ -1,4 +1,4 @@
-# Solitaire Whitebook
+# Solitaire Universe Whitebook
 
 The official knowledge base of Solitaire Universe.
 
